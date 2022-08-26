@@ -1,2 +1,3 @@
-# DesarrolloWeb-BackendG7
-CodiGo by Tecsup
+# Bienvenidos al repositorio de Backend
+
+## Aca haremos el temario del curso
